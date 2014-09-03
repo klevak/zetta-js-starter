@@ -13,6 +13,12 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "zetta": "^0.6.0"
+    "bonescript": "^0.2.4",
+    "zetta": "^0.8.0",
+    "zetta-auto-scout": "^0.2.0",
+    "zetta-buzzer-bonescript-driver": "*",
+    "zetta-microphone-bonescript-driver": "*",
+    "zetta-pir-bonescript-driver": "*",
+    "zetta-wemo-driver": "*"
   }
 }
